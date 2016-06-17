@@ -175,6 +175,14 @@ margin-left: -23px;
 
 
 }
+
+#TESTIMONIAL a:link{
+
+color: #f73b56;
+
+font: bold 1em/1.7em 'Montserrat', sans-serif;
+
+}
 .single_testimonial p{
 color: #404040;
 font-size: 18px;
@@ -300,6 +308,14 @@ text-transform: uppercase;
 	padding-left: 0px;
 	padding-right: 0px;
 }
+
+#WORK a:link{
+
+color: #f73b56;
+
+font: bold 1em/1.7em 'Montserrat', sans-serif;
+
+}
 .work_title{}
 .work_title h1, .contact_title h1{
 	font-size: 25px;
@@ -360,6 +376,15 @@ text-transform: uppercase;
 }
 
 /*Empresas*/
+}
+
+#EMPRESAS a:link{
+
+color: #f73b56;
+
+font: bold 1em/1.7em 'Montserrat', sans-serif;
+
+}
 .empresas_us_p{
 	font-size: 14px;
 	color: #272727;
@@ -396,6 +421,14 @@ text-transform: uppercase;
 	margin-bottom: 70px;
 
 /*Contact*/
+}
+
+#CONTACT a:link{
+
+color: #f73b56;
+
+font: bold 1em/1.7em 'Montserrat', sans-serif;
+
 }
 .single_contact_info{
 padding-bottom: 21px;	
