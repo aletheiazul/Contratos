@@ -325,10 +325,10 @@ font: bold 1em/1.7em 'Montserrat', sans-serif;
 	text-transform: uppercase;
 	margin-bottom: 15px;
 }
-.work_title img, .contact_title img{
+.work_title img, .contact_title img, .proyecto_title img{
 	margin-bottom: 30px;
 }
-.work_title p, .contact_title p{
+.work_title p, .contact_title p, .proyecto_title p{
 	font-size: 14px;
 	color: #000;
 	margin-bottom: 100px;
@@ -419,7 +419,13 @@ font: bold 1em/1.7em 'Montserrat', sans-serif;
 }
 .empresas_title img{
 	margin-bottom: 70px;
+}
 
+#PROYECTO a:link{
+
+color: #f73b56;
+
+font: bold 1em/1.7em 'Montserrat', sans-serif;
 /*Contact*/
 }
 
