@@ -99,6 +99,14 @@ background-color: #2d3334;
 	font-size: 14px;
 	font-weight: 800;
 }
+
+#ABOUT a:link{
+
+color: #f73b56;
+
+font: bold 1em/1.7em 'Montserrat', sans-serif;
+
+}
 .about_us_p{
 	font-size: 14px;
 	color: #272727;
